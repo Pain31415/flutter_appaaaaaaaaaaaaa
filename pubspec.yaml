@@ -1,0 +1,48 @@
+name: flutter_appaaaaaaaaaaaaa
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+  gif: ^2.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/Dark.png
+    - assets/gip.gif
+    - assets/text.png
+    - assets/Robot.png
+    - assets/Translator.png
+    - assets/People.png
+    - assets/Online.png
+    - assets/google.png
+    - assets/crow.png
+    - assets/gipback.gif
+    - assets/Arrow.png
+    - assets/arrowback.png
+    - assets/planet.gif
+    - assets/Question.png
+    - assets/english.png
+    - assets/german.png
+    - assets/italy.png
+    - assets/japan.png
+    - assets/korean.png
+    - assets/french.png
+    - assets/chine.png
+    - assets/spanish.png
+
